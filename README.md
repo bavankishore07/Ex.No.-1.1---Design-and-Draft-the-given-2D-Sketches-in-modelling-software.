@@ -34,12 +34,14 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
 <img width="337" height="425" alt="Screenshot 2026-11-27 171703" src="https://github.com/user-attachments/assets/d56137a0-38d4-4d51-bc74-04917de6ff18" />
+
 ## SKETCHS
+
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-<img width="1102" height="773" alt="Screenshot 2026-11-27 172435" src="https://github.com/user-attachments/assets/a44f7e5b-0eed-4c5a-aebb-33b68739a988" />
 
+<img width="1102" height="773" alt="Screenshot 2026-11-27 172435" src="https://github.com/user-attachments/assets/a44f7e5b-0eed-4c5a-aebb-33b68739a988" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
